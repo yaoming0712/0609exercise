@@ -1,5 +1,6 @@
 package com.directi.training.codesmells.duplicatecode;
-
+//java好難喔 抱歉我找不到
+//我推薦一個 java大師給你 祐德廖
 public class Statistics
 {   //atcually i can't find the problem & java is not my major
     public double calculateDifferenceOfAverage(double[] array1, double[] array2)
